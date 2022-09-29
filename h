@@ -12,7 +12,7 @@
       <button onclick = "addNewDatapoint()">Add</button>
      <div id="viz"></div>
       <script>
-          var myViz(
+          var myViz
           var vlSpec = {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
     "data": {
